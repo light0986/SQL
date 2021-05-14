@@ -1,0 +1,22 @@
+1.搜尋 SQL server
+C:\Windows\SysWOW64\SQLServerManager11.msc ~ SQLServerManager15.msc
+
+2.點選SQL Server服務
+確認SQL Server(SQLEXPRESS)服務/狀態/正常執行
+
+3.SQL Server的通訊協定
+啟動TCP/IP
+
+4.打開MS-SQL Server Management Studio
+右鍵Server/屬性/連接/遠端伺服器連接/允許此伺服器的遠端連接(打勾)
+
+5.回到SQLServerManager11.msc ~ SQLServerManager15.msc
+SQL Server服務/SQL Server Browser/執行(重新啟動)
+
+6.左下開始(Win)
+搜尋「服務」
+
+7.找尋SQL Server Browser
+啟動類型改為自動
+
+完畢
